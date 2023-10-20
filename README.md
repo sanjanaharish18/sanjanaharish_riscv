@@ -11,7 +11,7 @@
 
 - Boolean operators
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/77084ecf-baed-438b-81eb-cb7f67276076)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i2.png)
 
 </details>
 
@@ -19,9 +19,9 @@
 
 <details>
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/f20b8793-6d45-4d02-a7de-1b3b0e6895e6)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i3.png)
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/30ac7884-1eaf-49a6-a48b-88d20ab29bb4)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i4.png)
 
 - Ternary operator or a conditional operator, is a shorthand way of writing a conditional expression.
 
@@ -33,15 +33,15 @@
 
 #### Chaining Ternary operator
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/341c404f-beb6-46fa-b796-310c6973886c)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i5.png)
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/07aac60a-9dd7-4300-ba10-dfb96de3ee0b)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i6.png)
 
 - Equivalent Implementation
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/8f274141-37be-4eff-8c92-6301a702328d)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i7.png)
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/104fe22b-7e7c-413e-9ca6-fe9c028ee571)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i8.png)
 
 </details>
 
@@ -52,13 +52,13 @@
 
 - An online platform and integrated development environment (IDE) designed for digital design and hardware description language development.
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/df180a0c-6323-4327-a829-957e573b1175)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i9.png)
 
 - Log file - to provide a historical record of what happened during the execution of Makerchip, thus helpful for diagnosing issues, understanding the sequence of events, and ensuring that your digital designs are behaving as expected.
 
 - A Pythagorean example
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/5aee2572-463e-4230-9587-0e0d940d1d10)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i10.png)
 
 - Inverter
 
