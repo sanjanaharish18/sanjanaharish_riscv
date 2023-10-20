@@ -221,7 +221,7 @@
 
 <details>
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/4c1eae50-e4db-4830-9b11-1b82ab303d0c)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i32.png)
 
 - $lower_case : pipe signal
 - $CamelCase: state signal
@@ -265,7 +265,7 @@
   - The accumulator in the pipeline continuously adds up the $cc values from each valid transaction, providing a running total distance.
   - This accumulation allows you to keep track of the total distance traveled as you process each hop.
  
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/f40f8475-726d-4dc0-862a-ed067701f537)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i33.png)
 
 ```
 \SV
@@ -303,7 +303,7 @@
 
 **Implementation Plan**
 
-![image](https://github.com/JBavitha/bavitha_riscv/assets/142578450/957504ac-1cfe-4eb5-83b3-688634aa647b)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i34.png)
 
 </details>
 
@@ -313,12 +313,12 @@
 <summary>Labs</summary>
 - Lab for program counter
 
-![image](https://github.com/JBavitha/bavitha_riscv/assets/142578450/7b79dca1-d752-4d90-81de-aca35d769628)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i35.png)
 
 - Lab for instruction fetch
-![image](https://github.com/JBavitha/bavitha_riscv/assets/142578450/a795fd36-e6a8-4122-a0fc-e65b2c7e4120)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i36.png)
 
-![image](https://github.com/JBavitha/bavitha_riscv/assets/142578450/3efd9001-c20e-469f-b709-1a03a3c5aa16)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i37.png)
 
 - Instruction decode
 
@@ -367,9 +367,9 @@ $instr[11:7]} :
       m4+rf(@1, @1)  // Args: (read stage, write stage) - if equal, no register bypass is required
 
 ```
-![image](https://github.com/JBavitha/bavitha_riscv/assets/142578450/fcd92618-4655-4de4-b6a2-9945430e4eac)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i37.png)
 
-![image](https://github.com/JBavitha/bavitha_riscv/assets/142578450/e3720339-c857-4538-bc6b-bd2cd62079e3)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i38.png)
 - Instruction decode with validity
 ```
 |cpu
@@ -424,9 +424,9 @@ $is_i_instr = $instr[6:2] ==? 5'b0000x ||
       m4+rf(@1, @1)  // Args: (read stage, write stage) - if equal, no register bypass is required
 
 ```
-![image](https://github.com/JBavitha/bavitha_riscv/assets/142578450/66170f39-3ab1-4fce-a192-4f0578306a66)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i39.png)
 
-![image](https://github.com/JBavitha/bavitha_riscv/assets/142578450/300565ad-9fdc-42a5-8923-c05561062eb1)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i40.png)
 
 
 - Decode Individual Instruction
@@ -492,8 +492,8 @@ $is_i_instr = $instr[6:2] ==? 5'b0000x ||
       m4+rf(@1, @1)  // Args: (read stage, write stage) - if equal, no register bypass is required
 
 ```
-![image](https://github.com/JBavitha/bavitha_riscv/assets/142578450/595fa0d1-f9d2-4d01-99bf-5430c326176d)
-![image](https://github.com/JBavitha/bavitha_riscv/assets/142578450/30d85807-ac59-4cb8-9eff-fc240e1643a7)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i41.png)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i42.png)
 
 </details>
 
@@ -585,7 +585,7 @@ $is_i_instr = $instr[6:2] ==? 5'b0000x ||
 
 ```
 
-![image](https://github.com/JBavitha/bavitha_riscv/assets/142578450/04db1229-cdc6-4837-bcbe-c8253c513d95)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i43.png)
 
 ![image](https://github.com/JBavitha/bavitha_riscv/assets/142578450/5c1fa2ec-7ae9-4163-9351-4b1ee882cd89)
 
