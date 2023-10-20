@@ -21,7 +21,7 @@
 
 ![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i3.png)
 
-![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i4.png)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i5.png)
 
 - Ternary operator or a conditional operator, is a shorthand way of writing a conditional expression.
 
@@ -33,15 +33,15 @@
 
 #### Chaining Ternary operator
 
-![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i5.png)
-
 ![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i6.png)
-
-- Equivalent Implementation
 
 ![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i7.png)
 
+- Equivalent Implementation
+
 ![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i8.png)
+
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i9.png)
 
 </details>
 
@@ -52,7 +52,7 @@
 
 - An online platform and integrated development environment (IDE) designed for digital design and hardware description language development.
 
-![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i9.png)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i10.png)
 
 - Log file - to provide a historical record of what happened during the execution of Makerchip, thus helpful for diagnosing issues, understanding the sequence of events, and ensuring that your digital designs are behaving as expected.
 
