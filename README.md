@@ -58,33 +58,33 @@
 
 - A Pythagorean example
 
-![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i10.png)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i11.png)
 
 - Inverter
 
- ![image](https://github.com/ani171/anirudh_riscV/assets/97838595/91bc303d-d8a3-4322-a403-af47f4b8f6d2)
+ ![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i12.png)
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/940d4deb-abeb-4129-b6eb-ab46ce7e20c9)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i13.png)
 
 - AND Gate
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/a1cd5603-1301-48f5-9399-29c95e784a7f)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i4.png)
 
  - Arithmetic Operations (using vectors)
 
 `$out [4:0] = $in1[3:0] + $in2 [3:0]`
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/8ee419f6-37de-4ed4-a579-9b537651a361)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i15.png)
 
 - Multiplexer
 
 `$out = $sel ? $in1: $in2 `
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/5ec6ec2a-66da-4d5a-a64e-ced983832a38)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i16.png)
 
 `$out[7:0] = $sel ? $in1 [7:0]: $in2[7:0]`
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/864c6474-a49e-4f28-938a-9f4fb33c50a6)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i17.png)
 
 </details>
 
@@ -98,14 +98,14 @@
   - Q' (Q-bar) Output: This is the complement of the Q output. If Q is 1, then Q' is 0, and vice versa.
   - The D flip-flop also has a Reset input that can be used to reset the flip-flop to a specific state.
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/b55393e5-a0cc-4823-99e5-1aa09f38c2f3)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i18.png)
 
 - Fibonacci Series
   - 1,1,2,3,5,8,13,....
   - `$val[15:0] = $reset ? 1 : >>1$val + >>2$val`
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/1ba11e1d-654d-4dc1-8679-fd4cb59cd644)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i19.png)
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/19f7bb02-265d-4a7b-b199-e42927bd88ec)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i20.png)
 
 ![image](https://github.com/ani171/anirudh_riscV/assets/97838595/0b1a1e46-1cbf-4ccb-8ffc-ae2b1f52c7b2)
 
