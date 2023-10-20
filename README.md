@@ -107,7 +107,7 @@
 
 ![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i20.png)
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/0b1a1e46-1cbf-4ccb-8ffc-ae2b1f52c7b2)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i21.png)
 
 </details>
 
@@ -115,17 +115,17 @@
 
 <details>
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/bca318c1-02f7-4ef8-aa75-b6dbfa20f47e)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i22.png)
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/ca33cb62-ef6f-46c9-83b0-4254aee5a969)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i23.png)
 
 - Distributing this calculation over three cycles, as the logic is too deep to fit into a single cycle
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/701e4bfb-7f6d-4a04-96bf-7dec632183c3)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i24.png)
 
 - In TLV this division can be accessed via the timing abstract
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/bdbdc2ab-5b7f-415c-a2a3-8a575375100e)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i25.png)
 
 ```
    @1
@@ -137,7 +137,7 @@
       $cc[31:0] = sqrt($cc_sq);
 ```
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/93a9d438-94d3-4ed9-b705-c737204a93a1)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i26.png)
 
 - for the below case
 ```
@@ -152,7 +152,7 @@
          $cc[4:0] = sqrt($cc_sq);
 ```
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/223bd1ef-514d-487c-b5e2-834182cd6a37)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i27.png)
 
 - TL-Verilog is at a higher level of abstraction than SystemVerilog or VHDL and allows for more concise and expressive descriptions of digital circuits.
 <br>
@@ -180,8 +180,8 @@
    
    // $out = op[1]?(op[0] ? $quot : $prod):(op[0] ? $diff : $sum);
 ```
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/f4be39a0-7917-4bd9-9521-2be17dc9df8b)
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/b512be11-adda-448f-aee5-8370340e3271)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i28.png)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i29.png)
 
 - 2-cycle calculator
 ```
@@ -210,9 +210,9 @@
    *passed = *cyc_cnt > 40;
    *failed = 1'b0;
 ```
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/1983be7a-fdfe-46ed-83c3-7d5bab30c2fa)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i30.png)
 
-![image](https://github.com/ani171/anirudh_riscV/assets/97838595/99ca19d1-f6f3-4658-a439-af4b328cddb1)
+![image](https://github.com/sanjanaharish18/sanjanaharish_riscv/blob/main/i31.png)
 
 
 </details>
